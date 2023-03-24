@@ -254,6 +254,22 @@ export default class App extends LitElement {
                 <igc-ripple></igc-ripple>
               </span>
             </igc-nav-drawer-item>
+            <igc-nav-drawer-item>
+              <span slot="icon">
+                <span class="material-icons icon">
+                  folder
+                </span>
+                <igc-ripple></igc-ripple>
+              </span>
+            </igc-nav-drawer-item>
+            <igc-nav-drawer-item>
+              <span slot="icon">
+                <span class="material-icons icon">
+                  folder
+                </span>
+                <igc-ripple></igc-ripple>
+              </span>
+            </igc-nav-drawer-item>
           </div>
           <igc-nav-drawer-item>
             <span slot="icon">
